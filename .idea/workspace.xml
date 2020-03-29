@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e2feb1f-ce94-4179-a5a3-38d62d498363" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoBpqznT3M2dyZXUovnxosQVHj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="testRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testRectangle" />
+      <module name="Create_Rectangle_Class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testRectangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e2feb1f-ce94-4179-a5a3-38d62d498363" name="Default Changelist" comment="" />
+      <created>1585495751238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585495751238</updated>
+      <workItem from="1585497221184" duration="586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="419" key="GridCell.Tab.0.bottom" timestamp="1585498030069">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1320" height="419" key="GridCell.Tab.0.bottom/0.34.1366.734@0.34.1366.734" timestamp="1585498030069" />
+    <state width="1320" height="419" key="GridCell.Tab.0.center" timestamp="1585498030069">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1320" height="419" key="GridCell.Tab.0.center/0.34.1366.734@0.34.1366.734" timestamp="1585498030069" />
+    <state width="1320" height="419" key="GridCell.Tab.0.left" timestamp="1585498030068">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1320" height="419" key="GridCell.Tab.0.left/0.34.1366.734@0.34.1366.734" timestamp="1585498030068" />
+    <state width="1320" height="419" key="GridCell.Tab.0.right" timestamp="1585498030069">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state width="1320" height="419" key="GridCell.Tab.0.right/0.34.1366.734@0.34.1366.734" timestamp="1585498030069" />
+    <state x="191" y="67" width="973" height="674" key="Registry" timestamp="1585496636245">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="191" y="67" width="973" height="674" key="Registry/0.34.1366.734@0.34.1366.734" timestamp="1585496636244" />
+    <state x="172" y="34" width="1022" height="734" key="SettingsEditor" timestamp="1585495905590">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="172" y="34" width="1022" height="734" key="SettingsEditor/0.34.1366.734@0.34.1366.734" timestamp="1585495905590" />
+    <state x="339" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1585497223659">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="339" y="228" key="com.intellij.ide.util.TipDialog/0.34.1366.734@0.34.1366.734" timestamp="1585497223659" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585496633562">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.34.1366.734@0.34.1366.734" timestamp="1585496633562" />
+  </component>
+</project>
